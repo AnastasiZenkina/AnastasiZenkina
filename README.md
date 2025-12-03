@@ -18,8 +18,6 @@ Java · Spring Boot · PostgreSQL · REST APIs · Microservices · Docker · Hib
 
 I work best in stable product teams with clear responsibilities, predictable processes and a healthy work–life balance
 <br><br>
-### Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiazenkina)
-[![Email](https://img.shields.io/badge/Email-8B89CC?logo=gmail&logoColor=white)](mailto:asiazenkina@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/asizenkina)
+### Contacts 
+[LinkedIn](https://linkedin.com/in/anastasiazenkina) · [Email](mailto:asiazenkina@gmail.com) · [Telegram](https://t.me/asizenkina)

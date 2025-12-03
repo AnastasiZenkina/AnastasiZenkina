@@ -1,19 +1,14 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1onVzY6WuNDkIB6WbvEX_2ahEfeDtp7LO" width="100%" />
-</p>
-
-### Hi, I'm Anastasia
+### Anastasia - Java Backend Developer<br><br>
 I help teams ship stable backend features with clean code and predictable behavior.
 Here’s a short demo of one of my projects for a federal network of Medsi clinics:
-
+<br><br>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dNJPlmCOxKI">
-    <img src="https://drive.google.com/uc?export=view&id=1HuKK3YGDmlvkmqZXDH5PdXYgHnPvVOPv" width="60%">
+    <img src="https://drive.google.com/uc?export=view&id=1HuKK3YGDmlvkmqZXDH5PdXYgHnPvVOPv" width="100%">
   </a>
 </p>
 
-→ Full project on GitHub ([EN readme](https://github.com/AnastasiZenkina/Ortopunkt_ru/blob/main/README.en.md) / [RU readme](https://github.com/AnastasiZenkina/Ortopunkt_ru/blob/main/README.md))
-
+**Full project** ([EN readme](https://github.com/AnastasiZenkina/Ortopunkt_ru/blob/main/README.en.md) / [RU readme](https://github.com/AnastasiZenkina/Ortopunkt_ru/blob/main/README.md))
 
 ### Tech Stack
 Java · Spring Boot · PostgreSQL · REST APIs · Microservices · Docker · Hibernate/JPA · Git · CI/CD · Telegram API · AI/NLP Integrations
@@ -22,7 +17,7 @@ Java · Spring Boot · PostgreSQL · REST APIs · Microservices · Docker · Hib
 ### Preferred environment
 
 I work best in stable product teams with clear responsibilities, predictable processes and a healthy work–life balance — without startup chaos or agency-style workflows
-
+<br><br>
 ### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiazenkina)

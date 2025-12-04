@@ -5,7 +5,7 @@ Here’s a short demo of one of my projects for a federal network of MEDSI clini
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dNJPlmCOxKI">
-    <img src="https://drive.google.com/uc?export=view&id=1nVGgS_N2delvVqJt28shcKD0ePSQKrk1" width="100%">
+    <img src="https://raw.githubusercontent.com/AnastasiZenkina/AnastasiZenkina/main/democover.png" width="100%">
   </a>
 </p>
 

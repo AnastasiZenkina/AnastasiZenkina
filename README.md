@@ -1,5 +1,5 @@
-### Anastasia — Java Backend Developer<br><br>
-I help teams ship **stable backend features** with **clean code** and **predictable behavior**.  
+### Hi, I'm Anastasia — Java Backend Developer<br><br>
+I design and build backend systems with **clear architecture**, **stable behavior** and **production-ready reliability**.
 Here’s a short demo of one of my projects for a federal network of MEDSI clinics:
 <br></br>
 

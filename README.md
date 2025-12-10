@@ -1,7 +1,6 @@
 ### Hi, I'm Anastasia — Java Backend Developer<br><br>
 I design and build backend systems with **clear architecture**, **stable behavior** and **production-ready reliability**.
-Here’s a short demo of one of my projects for a federal network of MEDSI clinics, 
-where I developed the backend architecture, core logic, API integrations and AI-related functionality (click the preview):<br></br>
+Here’s a short demo of one of my projects for the Traumatology and Orthopedics Department of MEDSI Clinic on Krasnaya Presnya, where I developed the backend architecture, core logic, API integrations and AI-related functionality (click the preview):<br></br>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dNJPlmCOxKI">
